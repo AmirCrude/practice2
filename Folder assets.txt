@@ -1,0 +1,4 @@
+Create following folders:
+    assets
+        images
+        sounds

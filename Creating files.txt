@@ -1,0 +1,4 @@
+Create following files:
+    index.html
+    style.css
+    index.js
